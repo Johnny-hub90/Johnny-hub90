@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Johnny-hub90
+- 👋 Hi, I’m Akare
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on python or lua ai programming test run.
 - 📫 How to reach me: Discord akare#4554
